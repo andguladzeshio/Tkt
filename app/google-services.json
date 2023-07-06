@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "511358027976",
+    "firebase_url": "https://tktapp-be008-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "tktapp-be008",
+    "storage_bucket": "tktapp-be008.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511358027976:android:13458e8c6f28e32d757dfd",
+        "android_client_info": {
+          "package_name": "com.example.tkt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511358027976-rs13l8hmmliki855enfp22a0kufm5r4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSpyfSkgT54LE5Q2YTfUWLaBCzHZs4vrw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511358027976-rs13l8hmmliki855enfp22a0kufm5r4n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
